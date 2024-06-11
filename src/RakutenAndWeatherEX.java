@@ -19,8 +19,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class RakutenAndWeatherEX {
 
-	private static final String OPENWEATHER_API_KEY = "95a6a4b549fee192fae66256f0132b90";
-	private static final String RAKUTEN_API_KEY = "1010455293492860267";
+	private static final String OPENWEATHER_API_KEY = "（APIキーを入力　コード公開のため削除済み）";
+	private static final String RAKUTEN_API_KEY = "（APIキーを入力　コード公開のため削除済み）";
 	private static final String OPENWEATHER_API_URL = "http://api.openweathermap.org/data/2.5/weather?q=%s&appid=%s";
 	private static final String RAKUTEN_API_ENDPOINT = "https://app.rakuten.co.jp/services/api/IchibaItem/Search/20170706";
 	private static final int ITEMS_PER_PAGE = 30;
